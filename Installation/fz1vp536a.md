@@ -7,47 +7,47 @@
 
 **Verify your motherboard matches the picture below before continuing with the mod.**
 
-[![](./images/rXzPyYYlc4ca.jpg?1)](./images/rXzPyYYc4ca.jpg?1)
+[![](./images/fz1vp536a/board_thumb.jpg)](./images/fz1vp536a/board.jpg)
 
 ## Step 3
  We need to prep the board that has a 240p capable encoder. Remove R166 a 0 Ohm resistor highlighted in yellow.
 
-[![](./images/tZ2lLJut.jpg)](./images/tZ2lLJu.jpg)
+[![](./images/fz1vp536a/step3a_thumb.jpg)](./images/fz1vp536a/step3a.jpg)
 
-[![](./images/yDOTZ9Ftc4ca.jpg?1)](./images/yDOTZ9Fc4ca.jpg?1)
+[![](./images/fz1vp536a/step3b_thumb.jpg)](./images/fz1vp536a/step3b.jpg)
 
 ## Step 4
  Install the custom flex cable to the GPU.  Make sure the alignment is correct before soldering. The smallest amount of solder is needed when installing the flat flex.
 *Tack a few pins in the big center area first then align the leg into place and solder the 3 pins. After that finish the big section of the flex*
 
-[![](./images/gtGg3Y0t.jpg)](./images/gtGg3Y0.jpg)
+[![](./images/fz1vp536a/step4a_thumb.jpg)](./images/fz1vp536a/step4a.jpg)
 
-[![](./images/96LLIbetc4ca.jpg?1)](./images/96LLIbec4ca.jpg?1)
+[![](./images/fz1vp536a/step4b_thumb.jpg)](./images/fz1vp536a/step4b.jpg)
 
 
 ## Step 5
  Check adjacent pins for bridges that are not the same.
 *If you skip this step and do not confirm you could damage the RGB mod board or the 3DO itself.*
 
-[![](./images/vuAossqt.jpg)](./images/vuAossq.png)
+[![](./images/fz1vp536a/step5_thumb.jpg)](./images/fz1vp536a/step5.png)
 
 
 ## Step 6
  Remove the protective tape on the bottom side of the RGB board, insert the flex and then mount the board on top of the GPU.
 *It is recommended to insert the flex before mounting so the RGB board aligns properly with the flex.*
 
-[![](./images/OELE7mrt.jpg)](./images/OELE7mr.jpg)
+[![](./images/fz1vp536a/step6a_thumb.jpg)](./images/fz1vp536a/step6a.jpg)
 
-[![](./images/7JpxPNYt.jpg)](./images/7JpxPNY.jpg)
+[![](./images/fz1vp536a/step6b_thumb.jpg)](./images/fz1vp536a/step6b.jpg)
 
-[![](./images/vWzo3OLt.jpg)](./images/vWzo3OL.jpg)
+[![](./images/fz1vp536a/step6c_thumb.jpg)](./images/fz1vp536a/step6c.jpg)
 
 
 ## Step 7
  Run a small piece of wire from HzO to the pad of R166 as show in the images below
 *I use small 30AWG solid core wire for this*
 
-[![](./images/8qJ3I3Ptc4ca.jpg?1)](./images/8qJ3I3Pc4ca.jpg?1)
+[![](./images/fz1vp536a/step7_thumb.jpg)](./images/fz1vp536a/step7.jpg)
 
 
 ## Step 8
@@ -56,4 +56,5 @@
 
 
 If using Hardware version V1b, please set the shift alignment dips [Click here for how to set jumpers for shift alignment.](3do_shift.md)
+
 [If you purchased the optional RGB Mini Din kit click here for installation instructions.](3do_minidin.md)

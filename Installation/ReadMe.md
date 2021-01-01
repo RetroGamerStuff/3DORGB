@@ -82,20 +82,30 @@ This board revision has some new features that are not included in V1. Installat
 * LED Status to confirm mod is working (slow blink)
 * No Jumper needs to be set for BT9103
 
-Click here for how to set jumpers for shift alignment.
+[Click here for how to set jumpers for shift alignment.](shift_alignment.md)
 
 ## Step 2.
-Please choose your motherboard type for specific installation instructions. (ANVIL mainboards not supported)
+Please choose your motherboard type for specific installation instructions. (ANVIL mainboards are not supported)
 
-FZ-1 w/VP536a Encoder
+[FZ-1 w/VP536a Encoder](fz1vp536a.md)
 
-FZ-1 w/BT9101 Encoder
+[![](images/readme/fz1vp536a.jpg)](fz1vp536a.md)
 
-FZ-1 w/BT9103 Encoder
+[FZ-1 w/BT9101 Encoder](fz1bt9101.md)
 
-Goldstar w/VP536a Encoder
+[![](images/readme/fz1bt9101.jpg)](fz1bt9101.md)
 
-FZ-10 w/VP536a
+[FZ-1 w/BT9103 Encoder](fz1bt9103.md)
+
+[![](images/readme/fz1bt9103.jpg)](fz1bt9103.md)
+
+[Goldstar w/VP536a Encoder](goldvp536a.md)
+
+[![](images/readme/goldvp536a.jpg)](goldvp536a.md)
+
+[FZ-10 w/VP536a](fz10vp536a.md)
+
+[![](images/readme/fz10vp536a.jpg)](fz10vp536a.md)
 
 
 Help, my motherboard isn't listed. Send me a message with your console type ie, sanyo and the encoder use. I can likely tell you what to do based on pictures you send me.

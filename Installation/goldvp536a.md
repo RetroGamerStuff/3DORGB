@@ -6,48 +6,48 @@
 
 **Verify your motherboard matches the picture below before continuing with the mod.**
 
-[![](./images/v1QGB3Dl.jpg)](./images/v1QGB3D.jpg)
+[![](./images/goldvp536a/board_thumb.jpg)](./images/goldvp536a/board.jpg)
 
 ## Step 3
  We need to prep the board that has a 240p capable encoder. Remove R81 a 22 Ohm resistor highlighted in yellow.
 
-[![](./images/rnxejvnt.jpg)](./images/rnxejvn.png)
+[![](./images/goldvp536a/step3a_thumb.jpg)](./images/goldvp536a/step3a.png)
 
-[![](./images/u8w3krDt.jpg)](./images/u8w3krD.png)
+[![](./images/goldvp536a/step3b_thumb.jpg)](./images/goldvp536a/step3b.png)
 
 ## Step 4
  Install the custom flex cable to the GPU.  Make sure the alignment is correct before soldering. The smallest amount of solder is needed when installing the flat flex.
 *Tack a few pins in the big center area first then align the leg into place and solder the 3 pins. After that finish the big section of the flex*
 
-[![](./images/KC5KsD4t.jpg)](./images/KC5KsD4.jpg)
+[![](./images/goldvp536a/step4_thumb.jpg)](./images/goldvp536a/step4a.jpg)
 
-[![](./images/JBmFcn5t.jpg)](./images/JBmFcn5.jpg)
+[![](./images/goldvp536a/step4b_thumb.jpg)](./images/goldvp536a/step4b.jpg)
 
 ## Step 5
  Check adjacent pins for bridges that are not the same.
 *If you skip this step and do not confirm you could damage the RGB mod board or the 3DO itself.*
 
-[![](./images/vuAossqt.jpg)](./images/vuAossq.png)
+[![](./images/goldvp536a/step5_thumb.jpg)](./images/goldvp536a/step5.png)
 
 
 ## Step 6
  Remove the protective tape on the bottom side of the RGB board, insert the flex and then mount the board on top of the GPU.
 *It is recommended to insert the flex before mounting so the RGB board aligns properly with the flex.*
 
-[![](./images/OELE7mrt.jpg)](./images/OELE7mr.jpg)
+[![](./images/goldvp536a/step6a_thumb.jpg)](./images/goldvp536a/step6a.jpg)
 
-[![](./images/7JpxPNYt.jpg)](./images/7JpxPNY.jpg)
+[![](./images/goldvp536a/step6b_thumb.jpg)](./images/goldvp536a/step6b.jpg)
 
-[![](./images/vWzo3OLt.jpg)](./images/vWzo3OL.jpg)
+[![](./images/goldvp536a/step6c_thumb.jpg)](./images/goldvp536a/step6c.jpg)
 
 
 ## Step 7
  Run a small piece of wire from HzO to the pad of R81 as show in the images below
 *I use small 30AWG solid core wire for this*
 
-[![](./images/z3zLfcKt.jpg)](./images/z3zLfcK.jpg)
+[![](./images/goldvp536a/step7a_thumb.jpg)](./images/goldvp536a/step7a.jpg)
 
-[![](./images/3ahFWlAt.jpg)](./images/3ahFWlA.jpg)
+[![](./images/goldvp536a/step7b_thumb.jpg)](./images/goldvp536a/step7b.jpg)
 
 ## Step 8
  At this point the mod is installed.  All that is left is to hookup some type of RGB connection and switch.  If a switch is not connected to HzI the console will always run in 240p\*. Pulling HzI low will make the console run in 480i. 
@@ -55,4 +55,5 @@
 
 
 If using Hardware version V1b, please set the shift alignment dips [Click here for how to set jumpers for shift alignment.](3do_shift.md)
+
 [If you purchased the optional RGB Mini Din kit click here for installation instructions.](3do_minidin.md)
