@@ -10,6 +10,7 @@ Mini Din addon for 3DO RGB
 BOM
 * Switch: OS102011MA1QN1
 * 8Pin Din: MDJ-008-FS
+* 8Pin Din: MDJ-009-FS
 * Pins: 5247-0-00-15-00-00-03-0
 
 Copyright 2020 Daniel Kunz
