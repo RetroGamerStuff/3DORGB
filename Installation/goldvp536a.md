@@ -54,6 +54,6 @@
 *\*Some games run too fast in 240p mode.  Its recommended to have a switch installed.  This is a limitation of the console, not the mod.*
 
 
-If using Hardware version V1b, please set the shift alignment dips [Click here for how to set jumpers for shift alignment.](3do_shift.md)
+If using Hardware version V1b, please set the shift alignment dips [Click here for how to set jumpers for shift alignment.](shift_alignment.md)
 
-[If you purchased the optional RGB Mini Din kit click here for installation instructions.](3do_minidin.md)
+[If you purchased the optional RGB Mini Din kit click here for installation instructions.](minidin.md)
